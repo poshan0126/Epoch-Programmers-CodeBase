@@ -1,7 +1,7 @@
 import 'first.dart';
 
 void main(List<String> args) {
-  A newA = A();
-  newA.first = 'first value from second file';
-  print(newA.second);
+  var object = A();
+  object.second = 'mohdgdda';
+  print(object.second);
 }

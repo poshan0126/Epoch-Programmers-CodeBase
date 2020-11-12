@@ -11,6 +11,4 @@ class A {
   }
 }
 
-void main(List<String> args) {
-  var a = A();
-}
+void main(List<String> args) {}

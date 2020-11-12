@@ -15,6 +15,10 @@ class User {
   }
 }
 
+  // Users newClient = Users('mohan k.dhakal', 'mohan@gmail.com', 'abcdefg');
+  // Users newAdmin =
+  //     Users.admin('pramod jaisi', 'pramodCr7@gmai.com', '123456', '987583933');
+
 
 void main(List<String> args) {
   User newClient = User('mohan k.dhakal', 'mohan@gmail.com', 'abcdefg');
